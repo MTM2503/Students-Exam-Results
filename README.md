@@ -24,3 +24,4 @@ The following libraries were used in the analysis:
 1. Pandas
 2. Seaborn
 3. Matplotlib.pyplot
+4. scipy.stats
