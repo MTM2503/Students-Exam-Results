@@ -19,6 +19,10 @@ The Data set contains the following information:
 
 ## Analysis:
 
+![download](https://github.com/user-attachments/assets/6b19da5e-0ca4-4bfb-bd83-3ed942934430)
+![download](https://github.com/user-attachments/assets/f3225cef-39da-48c5-9063-2957ee044b4d)
+![download](https://github.com/user-attachments/assets/5455ae28-3114-46f3-a673-e34aca69704b)
+
 ## Dependenices:
 The following libraries were used in the analysis:
 1. Pandas
